@@ -1,10 +1,10 @@
 ### Bem-vindos!
 
-- 📖 Atualmente trabalhando em prol do TCC.
-- 📝 Estudando PHP e JavaScript.
+- 📖 Trabalhando em projetos academicos.
+- 📝 Estudando PHP, C, C#, C++ e HTML.
 - 📮 Contate-me pelo email: carol.campanholi14@gmail.com
 - 📓 Ela/Dela.
-- 🎮 Produzindo um projeto (jogo).
+- 🎮 Produzi um jogo e atualmente estou trabalhando em um aplicativo.
 
   <div>
       <a href="https://beacons.ai/carolcampanholi">
