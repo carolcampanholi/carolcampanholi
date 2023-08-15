@@ -1,7 +1,7 @@
 ### Bem-vindos!
 
 - 📖 Trabalhando em projetos academicos.
-- 📝 Estudando PHP, C, C#, Python. 
+- 📝 Estudando PHP, C, C#, C++, Python. 
 - 📮 Contate-me pelo email: carol.campanholi14@gmail.com
 - 📓 Ela/Dela.
 - 🎮 Produzi um jogo e atualmente estou trabalhando em um site educacional.
